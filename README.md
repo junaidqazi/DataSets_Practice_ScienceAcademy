@@ -61,6 +61,6 @@ This section provides a summary of the datasets in this repository.
 
 * Hourly Pollution Levels in Beijing
 * Minutely Individual Household Electric Power Consumption
-* [Human Activity Recognition Using Smartphones](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
+* [Human Activity Recognition Using Smartphones - Please download directly from the source](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 * Indoor Movement Prediction
 
