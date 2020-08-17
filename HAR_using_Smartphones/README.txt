@@ -3,7 +3,7 @@ Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ===================================================================================================
 
-*[Click here to download the dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)  
+* Follow this link to download the dataset ==> https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 1 - Smartlab - Non-Linear Complex Systems Laboratory
