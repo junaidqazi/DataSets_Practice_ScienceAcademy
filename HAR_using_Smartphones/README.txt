@@ -2,11 +2,14 @@
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ===================================================================================================
+
+* [Click here to download the dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)  
+
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 1 - Smartlab - Non-Linear Complex Systems Laboratory
-DITEN - Universit‡  degli Studi di Genova, Genoa (I-16145), Italy. 
+DITEN - Universit√†  degli Studi di Genova, Genoa (I-16145), Italy. 
 2 - CETpD - Technical Research Centre for Dependency Care and Autonomous Living
-Universitat PolitËcnica de Catalunya (BarcelonaTech). Vilanova i la Geltr˙ (08800), Spain
+Universitat Polit√®cnica de Catalunya (BarcelonaTech). Vilanova i la Geltr√∫ (08800), Spain
 activityrecognition '@' smartlab.ws 
 ===================================================================================================
 
@@ -76,7 +79,7 @@ Other Related Publications:
 
 [3] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. 4th International Workshop of Ambient Assited Living, IWAAL 2012, Vitoria-Gasteiz, Spain, December 3-5, 2012. Proceedings. Lecture Notes in Computer Science 2012, pp 216-223. 
 
-[4] Jorge Luis Reyes-Ortiz, Alessandro Ghio, Xavier Parra-Llanas, Davide Anguita, Joan Cabestany, Andreu Catal‡. Human Activity and Motion Disorder Recognition: Towards Smarter Interactive Cognitive Environments. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.  
+[4] Jorge Luis Reyes-Ortiz, Alessandro Ghio, Xavier Parra-Llanas, Davide Anguita, Joan Cabestany, Andreu Catal√†. Human Activity and Motion Disorder Recognition: Towards Smarter Interactive Cognitive Environments. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.  
 
 ==================================================================================================
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita and Xavier Parra. November 2013.
