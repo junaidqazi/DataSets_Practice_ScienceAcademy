@@ -2,5 +2,5 @@ Cd to git directory:  "datasets-practice-qazi"
 
 git pull  # always do this first
 git add .
-git commit -m "lil change"
+git commit -m "Your message goes here"
 git push
