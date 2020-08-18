@@ -82,7 +82,7 @@ The repository is created to ensure that the datasets remain available without a
 
 * Pollution Levels in Beijing (Hourly)
 * Minutely Individual Household Electric Power Consumption
-* [Human Activity Recognition Using Smartphones - Please download directly from the source](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
+* [Human Activity Recognition Using Smartphones](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 * Indoor Movement Prediction
 
 ## Recommender Systems 
