@@ -60,6 +60,7 @@ The repository is created to ensure that the datasets remain available without a
 ## Datasets For Regression (simple/multiple)
 
 * Auto Insurance Total Claims
+* Big Mart Sales
 * Boston Housing
 * Kings County House Price
 * Longley Economic
