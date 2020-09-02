@@ -18,7 +18,7 @@ The repository is created to ensure that the datasets remain available without a
 * 2012 US Election Data
 * 2014 World GDP
 * 2016 World Happiness Index
-* 2020 CoVID19 Geographic Distribution Worldwide till Aug 19, 2020 is included both in .xlsx and .csv. [click here to download the most recent once](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) 
+* 2020 CoVID19 Geographic Distribution Worldwide Data [click here to download the most recent one](https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide.xlsx) 
 * Bees Data
 * Emergency Calls (911 Calls Data)
 * Stocks (multiple csv files):
