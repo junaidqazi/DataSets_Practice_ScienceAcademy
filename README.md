@@ -82,6 +82,7 @@ The repository is created to ensure that the datasets remain available without a
 
 ## Datasets For Multivariate Time Series
 
+* Historical Product Demand Dataset -- Forecasts the demand for thousands of different products
 * Pollution Levels in Beijing (Hourly)
 * Minutely Individual Household Electric Power Consumption
 * [Human Activity Recognition Using Smartphones](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
