@@ -14,7 +14,7 @@ The course is available on the following platforms:
 * [Our School Website](https://scienceacademy.thinkific.com/)
 * [Skillshare](https://www.skillshare.com/r/user/junaidqazi)
 
-For free contents, subscribe to our [Youtube Channel](https://www.youtube.com/playlist?list=PLdxHFPEzvTvpIqyYouzn8QX5gBYGo-m0Z).
+For free contents, please subscribe to our [Youtube Channel](https://www.youtube.com/playlist?list=PLdxHFPEzvTvpIqyYouzn8QX5gBYGo-m0Z).
 
 The repository is created to ensure that the datasets remain available without any dependence on party involvement. 
 
