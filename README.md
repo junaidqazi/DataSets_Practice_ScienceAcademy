@@ -4,7 +4,7 @@ Practice Datasets -- Data Science and Machine Learning
 Several useful public datasets are included in this repository to practice your Data Science and Machine Learning skills. These datasets are also used in the course on ["Data Science and Machine Learning using Python - A Bootcamp"](https://scienceacademy.thinkific.com/courses/data-science-machine-learning-using-python-a-bootcamp).
 
 The course is available on the following platforms:
-* [Our School Website](https://scienceacademy.thinkific.com/courses/data-science-machine-learning-using-python-a-bootcamp)
+* [Our School Website](https://scienceacademy.thinkific.com/)
 * [Skillshare](https://www.skillshare.com/r/user/junaidqazi)
 
 For free contents, subscribe to our Youtube Channel (https://www.youtube.com/playlist?list=PLdxHFPEzvTvpIqyYouzn8QX5gBYGo-m0Z).
