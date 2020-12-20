@@ -63,6 +63,7 @@ The repository is created to ensure that the datasets remain available without a
 * Seed Quality Data
 * Wheat Seeds
 * Wine Quality (or regression)
+* Wine Quality Merged (red & white => column "red_wine" 1/0)
 
 ## Datasets For Regression (simple/multiple)
 
