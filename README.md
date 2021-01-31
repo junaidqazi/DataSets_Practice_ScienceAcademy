@@ -55,6 +55,7 @@ The repository is created to ensure that the datasets remain available without a
 * Sonar Returns
 * Titanic Data (multiple csv files)
 * [BioAssay dataset (highly imbalanced data)](https://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data)
+* [Chronic Kidney Disease](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease) 
 
 ## Datasets For Multi-class Classification
 
