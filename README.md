@@ -54,6 +54,7 @@ The repository is created to ensure that the datasets remain available without a
 * Pima Indians Diabetes
 * Sonar Returns
 * Titanic Data (multiple csv files)
+* [BioAssay dataset (highly imbalanced data)](https://archive.ics.uci.edu/ml/datasets/PubChem+Bioassay+Data)
 
 ## Datasets For Multi-class Classification
 
