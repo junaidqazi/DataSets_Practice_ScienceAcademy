@@ -37,7 +37,7 @@ The repository is created to ensure that the datasets remain available without a
 	* Suncor
 	* USO
 	* WTI
-
+* bootstrapping (sample data from StartCraft game on AMP -- Actions Per Minute only) 
 
 ## Datasets For Binary Class Classification
 
@@ -74,6 +74,7 @@ The repository is created to ensure that the datasets remain available without a
 * Boston Housing
 * Kings County House Price
 * Longley Economic
+* StarCraft 1 dataset and description 
 
 ## Datasets For Univariate Time Series
 
